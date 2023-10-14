@@ -12,3 +12,17 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.621);
 }
+
+h1 {
+    font-size: 2em;
+    color: rgb(13, 13, 198);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(43, 125, 226);
+}
+
+img.lado {
+    float: right;
+}
